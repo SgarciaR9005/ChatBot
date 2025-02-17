@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-	<Transactions>
-    <Transaction>2025/02/14 14:25:15.000.434,=D:\EmbarcaderoProyectos\Unit1.pas</Transaction>
-    <Transaction>2025/02/14 14:36:37.000.380,E:\Pruebas\Chatbot\Principal.pas=D:\EmbarcaderoProyectos\Unit1.pas</Transaction>
-    <Transaction>2025/02/14 14:36:37.000.380,E:\Pruebas\Chatbot\Principal.dfm=D:\EmbarcaderoProyectos\Unit1.dfm</Transaction>
-    <Transaction>2025/02/14 14:36:45.000.630,E:\Pruebas\Chatbot\Chatbot.dproj=D:\EmbarcaderoProyectos\Project1.dproj</Transaction>
-  </Transactions>
-</BorlandProject>
